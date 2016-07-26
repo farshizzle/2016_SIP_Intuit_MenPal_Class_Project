@@ -60,6 +60,7 @@ a {color: black;}
 .carousel-control .glyphicon-chevron-right,
 .carousel-control .icon-next {
 	right: 0;
+	left: -51px;
 }
 
 .carousel-control.left span:hover,
