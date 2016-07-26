@@ -110,3 +110,21 @@ a {color: black;}
     background-color: #fff;
     border-color: #fff;
 }
+
+.objectives {text-align: center;}
+
+li {text-align: center}
+
+/* Bullet Point Fix?*/
+ul  {
+ padding-left:0;   
+}
+ul li  {
+ list-style-position:inside
+}
+
+#helplinks { display:block;
+border-style: solid;
+border-width: 1.5px;
+border-color: black;
+}
