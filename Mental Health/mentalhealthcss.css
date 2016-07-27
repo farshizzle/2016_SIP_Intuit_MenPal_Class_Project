@@ -4,7 +4,7 @@
    transform: translateY(-1%);
 }
 
-a {color: black;}
+.link {color: black;}
 
 /* Carousel Stuff */
 .container {
