@@ -47,18 +47,20 @@
 .carousel-control .icon-prev, 
 .carousel-control .icon-next {
 	position: absolute;
-	top: 45%;
+	top: 41%;
 	z-index: 5;
 	display: inline-block;
 }
 
 .carousel-control .glyphicon-chevron-left,
 .carousel-control .icon-prev {
+	top: 41%;
 	left: 0;
 }
 
 .carousel-control .glyphicon-chevron-right,
 .carousel-control .icon-next {
+	top: 41%;
 	right: 0;
 	left: -51px;
 }
